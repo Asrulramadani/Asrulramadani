@@ -9,7 +9,7 @@ I don't know why I'm here, I'm interested in Information technology
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🌐 Socials:
-[![instagram](https://img.shields.io/badge/instagaram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hi.asrul_)
+[![instagram](https://img.shields.io/badge/instagaram-FF0069?style=for-the-badge&logo='hi.asrul-'&logoColor=white)](https://instagram.com/hi.asrul_)
 
 ## 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=DitzDev&label=Viewers&color=0e75b6&style=flat)
